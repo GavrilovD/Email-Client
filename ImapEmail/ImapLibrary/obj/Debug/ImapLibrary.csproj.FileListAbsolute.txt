@@ -1,0 +1,11 @@
+C:\Users\rjoshi\Projects\ImapLibrary\ImapLibrary\bin\Debug\ImapLibrary.dll
+C:\Users\rjoshi\Projects\ImapLibrary\ImapLibrary\bin\Debug\ImapLibrary.pdb
+C:\Users\rjoshi\Projects\ImapLibrary\ImapLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rjoshi\Projects\ImapLibrary\ImapLibrary\obj\Debug\ImapLibrary.dll
+C:\Users\rjoshi\Projects\ImapLibrary\ImapLibrary\obj\Debug\ImapLibrary.pdb
+C:\Users\User\Desktop\учеба\сети\курсовой\библиотеки\ImapLibrary\ImapLibrary\ImapLibrary\bin\Debug\ImapLibrary.dll
+C:\Users\User\Desktop\учеба\сети\курсовой\библиотеки\ImapLibrary\ImapLibrary\ImapLibrary\bin\Debug\ImapLibrary.pdb
+C:\Users\User\Desktop\учеба\сети\курсовой\библиотеки\ImapLibrary\ImapLibrary\ImapLibrary\obj\Debug\ImapLibrary.csprojAssemblyReference.cache
+C:\Users\User\Desktop\учеба\сети\курсовой\библиотеки\ImapLibrary\ImapLibrary\ImapLibrary\obj\Debug\ImapLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\учеба\сети\курсовой\библиотеки\ImapLibrary\ImapLibrary\ImapLibrary\obj\Debug\ImapLibrary.dll
+C:\Users\User\Desktop\учеба\сети\курсовой\библиотеки\ImapLibrary\ImapLibrary\ImapLibrary\obj\Debug\ImapLibrary.pdb
